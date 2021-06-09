@@ -6,3 +6,4 @@
 
  - to download Java  and the [Developer Kit](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) 
  - to download [Intellij Comunity Edition](https://www.jetbrains.com/idea/download/#section=windows)
+ - list of usefull [shortcuts for Intellij](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) 
