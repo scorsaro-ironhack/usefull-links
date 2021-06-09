@@ -11,6 +11,6 @@
  - list of usefull [shortcuts for Intellij](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf) 
 
 
-## Dev Environment
+## More Resources
 
 - the bible of coding etiquette [Clean Code](https://www.oreilly.com/library/view/clean-code-a/9780136083238/) 
