@@ -19,3 +19,7 @@
 ## Git
 - usefull commands for [Git](https://education.github.com/git-cheat-sheet-education.pdf)
 - TA's githubs: Jaume, [Salvatore](https://github.com/scorsaro-ironhack)
+
+## Unix
+- usefull commands for [Unix terminal](https://www-users.york.ac.uk/~pjh503/commands.html)
+
