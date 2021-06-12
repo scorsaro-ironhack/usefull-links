@@ -23,3 +23,8 @@
 ## Unix
 - usefull commands for [Unix terminal](https://www-users.york.ac.uk/~pjh503/commands.html)
 
+## IntelliJ plugins
+- RainbowBrackets
+- .gitIgnore
+- KeyPromoter X
+
