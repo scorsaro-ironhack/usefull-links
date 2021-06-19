@@ -33,5 +33,9 @@
 - https://www.tutorialspoint.com/java/math/java_math_bigdecimal.htm
 
 ## Standard Input and file handling
-- https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/
-- https://www.tutorialspoint.com/java/java_files_io.htm
+- [Java io input output in java with examples](https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/)
+- [Java files](https://www.tutorialspoint.com/java/java_files_io.htm)
+
+## Abstract Classes
+- [Guide](https://www.geeksforgeeks.org/abstract-classes-in-java/)  
+- [When to Use an Abstract Class in Java](https://www.tutorialspoint.com/when-to-use-an-abstract-class-and-when-to-use-an-interface-in-java)      
