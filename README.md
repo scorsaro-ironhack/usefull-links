@@ -28,3 +28,10 @@
 - .gitIgnore
 - KeyPromoter X
 
+## BigDecimal Guide
+- https://www.geeksforgeeks.org/bigdecimal-class-java/
+- https://www.tutorialspoint.com/java/math/java_math_bigdecimal.htm
+
+## Standard Input and file handling
+- https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/
+- https://www.tutorialspoint.com/java/java_files_io.htm
