@@ -29,11 +29,11 @@
 - KeyPromoter X
 
 ## BigDecimal
-- [bigdecimal-class](https://www.geeksforgeeks.org/bigdecimal-class-java/)
+- [Bigdecimal Class](https://www.geeksforgeeks.org/bigdecimal-class-java/)
 - [Guide](https://www.tutorialspoint.com/java/math/java_math_bigdecimal.htm)
 
 ## Standard Input and file handling
-- [Java io input output in java with examples](https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/)
+- [Java io input output with examples](https://www.geeksforgeeks.org/java-io-input-output-in-java-with-examples/)
 - [Java files](https://www.tutorialspoint.com/java/java_files_io.htm)
 
 ## Abstract Classes
