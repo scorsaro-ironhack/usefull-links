@@ -40,5 +40,5 @@
 - [Guide](https://www.geeksforgeeks.org/abstract-classes-in-java/)  
 - [When to Use an Abstract Class in Java](https://www.tutorialspoint.com/when-to-use-an-abstract-class-and-when-to-use-an-interface-in-java)      
 
-## exception Handling
+## Exception Handling
 - [Guide](https://www.edureka.co/blog/java-exception-handling)
